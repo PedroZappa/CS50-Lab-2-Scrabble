@@ -1,8 +1,3 @@
----
-layout: default
-title: Scrabble
----
-
 # CS50-Lab-2: Scrabble
 
 ## Table of Contents
